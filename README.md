@@ -1,14 +1,15 @@
 Hi 👋 My name is Antonio 
 ===================================
 
-Web Developer and Designer
+Developer of Dreams
 --------------------------
 
-I've been working with Databases(SQL) for 2 years when I decided to pursue a career as a programmer. Learning Java and OOP for Backend Software gave me perfect insight into the syntax of coding. I've been into music my whole life and working for an art gallery [Aaart Foundation](www.aaartfoundation.com) for 5 years, also gave me insight into photography, videography and composition. That's how I got into WebDesign with CMS software and later dove into HTML, CSS and JS. Currently learning to work with React.
+I've been working with Databases(SQL) for 2 years when I decided to pursue a career as a programmer. Learning Java and OOP for Backend Software gave me perfect insight into the syntax of coding. I've been into music my whole life and working for an art gallery [Aaart Foundation](www.aaartfoundation.com) for 5 years, also gave me insight into photography, videography and composition. That's how I got into WebDesign with CMS software and later dove into HTML, CSS and JS. Currently learning to work with React and Vue.
 
-*   🌍  I'm based in Vienna
+*   🌍  I'm based in Vienna and Tyrol
+*   🩺  I study Medical Informatics
 *   ✉️  You can contact me at [antonio.cancarevic@live.com](mailto:antonio.cancarevic@live.com)
-*   🧠  I'm learning React, MaterialUI
+*   🧠  I'm using Vue and learning React
 *   🤝  I'm open to collaborating on anything really. I want to be challenged and I am open to learning more!
 *   ⚡  As a musician myself - I love artistic projects.
 
